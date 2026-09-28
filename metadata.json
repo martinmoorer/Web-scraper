@@ -1,0 +1,6 @@
+{
+  "name": "Deep Research",
+  "description": "Background web scraping orchestrator that uses Gemini AI to structure collected topical data into research categories, thesis segments, and mind maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

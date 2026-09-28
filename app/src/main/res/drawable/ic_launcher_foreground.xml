@@ -1,0 +1,49 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Connecting network edges -->
+    <path
+        android:pathData="M54,42 L36,62 M54,42 L72,62 M36,62 L72,62 M54,42 L54,28 M36,62 L26,76 M72,62 L82,76"
+        android:strokeWidth="3.5"
+        android:strokeColor="#38BDF8"
+        android:strokeLineCap="round" />
+    
+    <!-- Central research core node -->
+    <path
+        android:pathData="M54,42m-9,0a9,9 0 1,0 18,0a9,9 0 1,0 -18,0"
+        android:fillColor="#00E5FF" />
+    <path
+        android:pathData="M54,42m-4.5,0a4.5,4.5 0 1,0 9,0a4.5,4.5 0 1,0 -9,0"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Branch node top -->
+    <path
+        android:pathData="M54,28m-6,0a6,6 0 1,0 12,0a6,6 0 1,0 -12,0"
+        android:fillColor="#60A5FA" />
+
+    <!-- Branch node left -->
+    <path
+        android:pathData="M36,62m-7.5,0a7.5,7.5 0 1,0 15,0a7.5,7.5 0 1,0 -15,0"
+        android:fillColor="#38BDF8" />
+    <path
+        android:pathData="M36,62m-3.5,0a3.5,3.5 0 1,0 7,0a3.5,3.5 0 1,0 -7,0"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Branch node right -->
+    <path
+        android:pathData="M72,62m-7.5,0a7.5,7.5 0 1,0 15,0a7.5,7.5 0 1,0 -15,0"
+        android:fillColor="#38BDF8" />
+    <path
+        android:pathData="M72,62m-3.5,0a3.5,3.5 0 1,0 7,0a3.5,3.5 0 1,0 -7,0"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Terminal nodes -->
+    <path
+        android:pathData="M26,76m-5,0a5,5 0 1,0 10,0a5,5 0 1,0 -10,0"
+        android:fillColor="#818CF8" />
+    <path
+        android:pathData="M82,76m-5,0a5,5 0 1,0 10,0a5,5 0 1,0 -10,0"
+        android:fillColor="#818CF8" />
+</vector>
